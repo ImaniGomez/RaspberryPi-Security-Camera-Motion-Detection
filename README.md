@@ -20,6 +20,6 @@ The system captures consecutive frames from the Raspberry Pi Camera, processes t
 - `numpy`: Frame manipulation and array operations
 
 ### Author
-Imani Gomez, NYU Tandon Graduate Student, 2025
-Asmita Sonavane, NYU Tandon Graduate Student, 2025
+- Imani Gomez, NYU Tandon Graduate Student, 2025
+- Asmita Sonavane, NYU Tandon Graduate Student, 2025
   
