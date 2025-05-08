@@ -1,4 +1,4 @@
-# Raspberry Pi Security Camera with Motion Detection C
+# Raspberry Pi Security Camera with Motion Detection 
 - This project is a security camera system with motion detection built using a Rapsberry Pi, a camera module and the Picamera2 library. It captures a live video feed and detects motion in real time by comparing frames and highlighting objects in motion. 
 
 > This project was created for an NYU graduate course (Digital Signal Processing) that primarily focused on **audio processing and waveform analysis**, as an exploration into related real-time data processing techniques in video.
