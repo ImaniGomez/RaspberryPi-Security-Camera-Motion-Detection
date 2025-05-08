@@ -19,7 +19,7 @@ The system captures consecutive frames from the Raspberry Pi Camera, processes t
 - [`opencv-python`](https://pypi.org/project/opencv-python/): Image processing and motion detection
 - `numpy`: Frame manipulation and array operations
 
-### Author
+### Authors
 - Imani Gomez, NYU Tandon Graduate Student, 2025
 - Asmita Sonavane, NYU Tandon Graduate Student, 2025
   
