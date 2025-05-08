@@ -5,7 +5,7 @@
 
 ## Overview
 
-The system captures consecutive frames from the Raspberry Pi Camera, processes them to identify motion, and displays bounding boxes around areas of significant change. It demonstrates real-time frame analysis using OpenCV and Python.
+- The system captures consecutive frames from the Raspberry Pi Camera, processes them to identify motion, and displays bounding boxes around areas of significant change. It demonstrates real-time frame analysis using OpenCV and Python.
 
 ## Hardware Requirements
 - Raspberry Pi 4 (or similar)
