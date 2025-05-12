@@ -7,11 +7,12 @@
 
 - The system captures consecutive frames from the Raspberry Pi Camera, processes them to identify motion, and displays bounding boxes around areas of significant change. It demonstrates real-time frame analysis using OpenCV and Python.
 
-## Hardware Requirements
+## Hardware and Software Requirements
 - Raspberry Pi 4 (or similar)
 - Camera Module compatible with Picamera2
 - Raspberry Pi 32-bit legacy OS (with libcamera support)
 - Cables: Micro-HDMI to HDMI, USB-C power supply
+- 32-bit Raspberry Pi OS (Legacy) with libcamera support
 
 ## Libraries Used
 
